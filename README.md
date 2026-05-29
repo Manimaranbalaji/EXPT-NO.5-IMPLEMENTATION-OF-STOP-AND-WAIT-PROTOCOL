@@ -83,11 +83,10 @@ $ns at 3.1 "$ns trace-annotate \"FTP stops\""
 $ns at 0.0 "$n0 label Sender"
 $ns at 0.0 "$n1 label Receiver"
 $ns run
- ~~~
+~~~
 # OUTPUT
 
-<img width="1280" height="773" alt="image" src="https://github.com/user-attachments/assets/ab162e85-1d01-47c7-9ba3-942532c5c516" />
-
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/080e3a35-c45b-4bef-a0ed-b6f15138b2aa" />
 
 
 
